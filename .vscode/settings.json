@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "d:\\Users\\user\\Downloads\\Jar-20230613T130107Z-001\\Jar\\mysql-connector-java-8.0.28.jar",
+            "d:\\Users\\user\\Downloads\\Jar-20230613T130107Z-001\\Jar\\jcalendar-tz-1.3.3-4.jar",
+            "d:\\Users\\user\\Downloads\\Jar-20230613T130107Z-001\\Jar\\rs2xml.jar"
+        ],
+        "exclude": [
+            "d:\\Users\\user\\Downloads\\Jar-20230613T130107Z-001\\Jar\\mysql-connector-java-8.0.28.jar"
+        ]
+    }
+}
